@@ -1,18 +1,18 @@
 <resources>
-    <string name="app_name">FirstApp_TS_05102021</string>
+    <string name="app_name">SMzad1</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next</string>
 
-    <string name="question_001">Czy te pytanie jest sensowne?</string>
-    <string name="question_003">Czy poprzednie pytanie było sensowne?</string>
-    <string name="question_009">Czy odpowiadanie na te pytania ma sens?</string>
-    <string name="question_004">Czy Kopernik był/była kobietą?</string>
-    <string name="question_005">Czy !@#$%^*()_+{}"|:?>śćółżź te znaki działają?</string>
-    <string name="question_006">Czy pisanie programów w javie jest przyjemne?</string>
-    <string name="question_007">Czy pisanie programów w .Net jest przyjemne?</string>
-    <string name="question_008">Czy moge wiedzieć dokąd nocą tupta jeż?</string>
-    <string name="question_002">Czy niemcy produkują najwięcej piwa?</string>
+    <string name="question_001">Czy rolę Harrego Pottera zagrał Daniel Radcliffe?</string>
+    <string name="question_002">Symbolem Roweny Ravenclaw jest orzeł?</string>
+    <string name="question_003">Założycielem Gryffindoru jest Salazar Slytherin?</string>
+    <string name="question_004">Czy Hagrid zginął w bitwie o Hogwart?</string>
+    <string name="question_005">Czy Mandragora po odkopaniu krzyczy?</string>
+    <string name="question_006">Hardodziob był kotem Hermiony?</string>
+    <string name="question_007">Czy Draco Malfoy jest animagiem?</string>
+    <string name="question_008">Łzy feniksa są jedynym antidotum na jad bazyliszka?</string>
+    <string name="question_009">Harry, Ron i Hermiona poznali się w pociągu?</string>
 
     <string name="correct_answer">Correct answer</string>
     <string name="wrong_answer">Incorrect answer</string>

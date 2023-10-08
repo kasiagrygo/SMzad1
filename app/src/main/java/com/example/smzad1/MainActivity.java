@@ -123,11 +123,11 @@ public class MainActivity extends AppCompatActivity {
 
         questionList.add(Question.Create(R.string.question_001, true));
         questionList.add(Question.Create(R.string.question_002, true));
-        questionList.add(Question.Create(R.string.question_003, true));
+        questionList.add(Question.Create(R.string.question_003, false));
         questionList.add(Question.Create(R.string.question_004, false));
         questionList.add(Question.Create(R.string.question_005, true));
         questionList.add(Question.Create(R.string.question_006, false));
-        questionList.add(Question.Create(R.string.question_007, true));
+        questionList.add(Question.Create(R.string.question_007, false));
         questionList.add(Question.Create(R.string.question_008, true));
         questionList.add(Question.Create(R.string.question_009, true));
 
