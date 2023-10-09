@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         CurrentQuestionPoint = 0;
 
         trueButton.setBackgroundColor(getResources().getColor(R.color.Green_correct));
+        falseButton.setBackgroundColor(getResources().getColor(R.color.Red_incorrect));
 
         trueButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -99,14 +100,10 @@ public class MainActivity extends AppCompatActivity {
         if(userAnswer == question.QuestionTrue)
         {
             result = R.string.correct_answer;
-            LinearLayout layout = (LinearLayout) findViewById(R.id.LinearBackground);
-            layout.setBackgroundColor(getResources().getColor(R.color.Green_correct));
         }
         else
         {
             result = R.string.wrong_answer;
-            LinearLayout layout = (LinearLayout) findViewById(R.id.LinearBackground);
-            layout.setBackgroundColor(getResources().getColor(R.color.Red_incorrect));
         }
         Toast toast = Toast.makeText(MainActivity.this, result, Toast.LENGTH_SHORT);
         toast.show();

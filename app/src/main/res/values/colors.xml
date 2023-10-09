@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background_idle">#d9ba8c</color>
+    <color name="background_idle">#ffffff</color>
     <color name="Green_correct">#009000</color>
     <color name="Red_incorrect">#cc0000</color>
 </resources>
